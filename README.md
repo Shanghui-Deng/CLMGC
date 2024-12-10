@@ -1,5 +1,4 @@
 # Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering
-Code of Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering
 
 The complete code and datasets will be made public after the paper is accepted.
 
